@@ -8,7 +8,20 @@ body
 {
     width: 70%;
     padding: 1em;
-    text-align: center;
+    text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+}
+
+#cabecera
+{
+    font-size: 50px;
+    font-weight: bold;
+    background-color: aqua;
+    padding: 0.5em;
+}
+
+#tagline
+{
+    font-weight: normal;
 }
